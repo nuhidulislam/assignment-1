@@ -237,6 +237,15 @@ border-radius: 20px;
 
  /* my-current-target-section-style end here */
 
+
+ /* My next terget section style start here */
+.my-next-target-container{
+  width: 90%;
+  height: 1000px;
+  border: 2px solid red;
+}
+ /* my next terget section style end here */
+
 /* handshake-section-style-start-here  */
 .handshake-section-container{
   background-image: url(images/handshake.jpg);

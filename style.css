@@ -1,11 +1,9 @@
 @import url('https://fonts.googleapis.com/css2?family=Azeret+Mono:ital,wght@0,100..900;1,100..900&display=swap');
 
-
 *{
   margin: 0px;
   padding: 0px;
   font-family: "Azeret Mono", monospace;
-  
 }
 
 
@@ -21,6 +19,7 @@
   box-sizing: border-box;
 }
 
+
 .nav-btn{
   height: 50px;
   width: 250px;
@@ -28,6 +27,7 @@
   font-size: 20px;
   background: white;
 }
+
 
 /* navber style end here */
 
@@ -39,30 +39,30 @@
   border: 2px solid white;
   box-sizing: border-box;
 }
+
+
 .banner-text{
   text-align: center;
  width: 80%;
  height: 550px;
 margin: 0px auto;
 margin-top: 50px;
-
- 
-
 }
+
 
 .banner-text-title{
   font-size: 40px;
   margin-top: 20px;
 }
 
+
 .banner-text-description{
   padding: 24px 50px;
   color:#696b6d ;
- 
 }
 
+
 .btn{
-  
   background: black;
   text-align: center;
   width:220px ;
@@ -71,8 +71,8 @@ margin-top: 50px;
   border-radius: 8px;
   color: white;
   margin-top: 25px;
-
 }
+
 /* banner section style end here */
 
 
@@ -81,13 +81,13 @@ margin-top: 50px;
   width: 85%;
   height: 1400px;
   margin: 20px auto;
-  
   padding: 50px;
   background: #f5f1f1;
 }
+
+
 .why-web-development-heading{
   text-align: center;
-  
 }
 
 
@@ -95,16 +95,15 @@ margin-top: 50px;
   font-weight: bold;
   font-size: 32px;
 }
+
+
 .why-web-development-heading p{
   color: #696b6d;
   margin-top: 20px;
 }
 
 
-
-
 .why-web-development-card{
-  
   height: 340px;
   display: flex;
   justify-content: space-between;
@@ -115,11 +114,11 @@ margin-top: 50px;
 
 
 .why-web-development-card-text{
-  
   height: 340px;
   width: 60%;
-  
 }
+
+
 
 .why-web-development-card-title{
   font-weight: bold;
@@ -130,13 +129,14 @@ margin-top: 50px;
   line-height: 40px;
 }
 
+
+
 .why-web-development-card-description{
  font-size: 18px;
  margin-top: 15px;
  line-height: 30px;
  color: #696b6d;
  text-align: justify;
- 
 }
 
 
@@ -152,17 +152,19 @@ margin-top: 50px;
 
 
 .why-web-development-card-img{
-
   height: 340px;
   width: 30%;
   margin-left: 40px;
-  
-  
 }
+
+
+
 .why-web-development-card-img img{
   width: 100%;
   height: 100%;
 }
+
+
 
 /* why web development section style end here  */
 
@@ -172,6 +174,8 @@ margin-top: 50px;
   height: 500px;
   margin: 50px auto;
 }
+
+
 .my-inspiration-section-heading{
   text-align: center;
 }
@@ -327,18 +331,19 @@ border-radius: 20px;
   width: 92%;
   border: 2px solid black;
   margin: 50px auto;
-  
   background-size: cover;
   background-color: rgba(0, 0, 0, 0.4);
   background-blend-mode: overlay;
-  
-  
 }
+
+
 
 .handshake-section-container img{
   height: 315px;
   width: 100%;
 }
+
+
 
 .handshake-section{
   height: 186px;
@@ -346,8 +351,9 @@ border-radius: 20px;
   margin: 0px auto;
   margin-top: 60px;
   text-align: center;
-  
 }
+
+
 
 .handshake-section h1{
   font-size: 32px;
@@ -357,9 +363,12 @@ border-radius: 20px;
 }
 
 
+
 .handshake-section p{
   color: white;
 }
+
+
 
 .input-section{
   display: block;
@@ -367,21 +376,24 @@ border-radius: 20px;
   margin-top: 20px;
 }
 
+
 .submit-btn{
   height: 50px;
   width: 120px;
   font-size: 20px;
   border-radius: 8px;
 }
+
+
 #input-feedback{
   height: 50px;
   width: 500px;
-  
   border-radius: 8px;
   padding: 10px;
   box-sizing: border-box;
-
 }
+
+
 
 /* handshake-section-style-end-here */
 
@@ -394,7 +406,6 @@ border-radius: 20px;
   justify-content: space-between;
   width: 100%;
   height: 50px;
-  
   align-items: center;
   background: #F8F8F8;
 }
@@ -404,19 +415,16 @@ border-radius: 20px;
   margin-left: 50px;
 }
 
+
 .footer-icon{
- 
   margin-right: 50px;
   width: 200px;
-  
- 
 }
+
+
 
 .footer-icon img{
   justify-content: space-between;
- 
-
- 
 }
 
 

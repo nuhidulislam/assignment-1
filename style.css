@@ -9,6 +9,28 @@
 }
 
 
+
+/* navber style start here */
+.navber{
+  display: flex;
+  justify-content: space-between;
+  height: 60px;
+  width: 100%;
+  align-items: center;
+  padding: 0px 70px;
+  box-sizing: border-box;
+}
+
+.nav-btn{
+  height: 50px;
+  width: 250px;
+  border-radius: 10px;
+  font-size: 20px;
+  background: white;
+}
+
+/* navber style end here */
+
 /* banner section style start here */
 .banner{
   background-image: url(images/banner-bg.png);
@@ -242,8 +264,8 @@ border-radius: 20px;
 .my-next-target-container{
   width: 90%;
   height: 1000px;
-  border: 2px solid red;
   margin: 50px auto;
+ 
 }
 
 .my-next-target-heading{

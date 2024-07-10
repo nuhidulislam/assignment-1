@@ -243,7 +243,64 @@ border-radius: 20px;
   width: 90%;
   height: 1000px;
   border: 2px solid red;
+  margin: 50px auto;
 }
+
+.my-next-target-heading{
+  text-align: center;
+  padding: 30px 150px;
+}
+
+.my-next-target-heading p{
+  color: #696b6d;
+  margin-top: 15px;
+}
+
+.my-next-target-heading h1{
+  font-size: 32px;
+  font-weight: 900;
+}
+.my-next-target-card{
+  display: flex;
+  border: 2px solid black;
+  border-radius: 10px;
+  margin-bottom: 20px;
+}
+
+.my-next-target-img{
+  width: 25%;
+  height: 250px;
+ 
+
+}
+
+.my-next-target-img img{
+  height: 200px;
+  width: 200px;
+  margin-top: 25px;
+  margin-left: 50px;
+}
+
+.my-next-target-text{
+  width: 75%;
+  height: 250px;
+  
+  padding: 30px;
+  box-sizing: border-box;
+}
+.my-next-target-text h1{
+  font-size: 25px;
+  font-weight: 900;
+  margin-bottom: 10px;
+}
+
+.my-next-target-text p{
+  color: #696b6d;
+  margin-bottom: 20px;
+}
+
+
+
  /* my next terget section style end here */
 
 /* handshake-section-style-start-here  */

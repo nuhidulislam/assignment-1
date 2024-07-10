@@ -86,7 +86,6 @@ margin-top: 50px;
   background: #f5f1f1;
 }
 .why-web-development-heading{
- 
   text-align: center;
   
 }
@@ -146,7 +145,6 @@ margin-top: 50px;
   width: 150px;
   height:48px;
   font-size: 20px;
-  
   background: white;
   margin-top: 35px;
   color: #0D1321;
@@ -172,16 +170,10 @@ margin-top: 50px;
 .my-inspiration-section-container{
   width: 90%;
   height: 500px;
-  
   margin: 50px auto;
-  
-
 }
-
-
 .my-inspiration-section-heading{
   text-align: center;
-
 }
 
 
@@ -194,16 +186,16 @@ margin-top: 50px;
   height: 380px;
   width: 80%;
   margin: 10px auto;
- 
 }
 
  /* My inspiration section style end here  */
+
+
 
  /* my-current-target-section-style start here */
 .my-current-target-container{
   width: 90%;
   height: 500px;
- 
   margin: 50px auto;
 }
 
@@ -217,6 +209,8 @@ margin-top: 50px;
   font-size: 32px;
   font-weight: bold;
 }
+
+
 .my-current-target-heading p{
 color: #696b6d;
 margin-top: 20px;
@@ -224,11 +218,9 @@ margin-top: 20px;
 
 .current-target-card-container{
   display: flex;
-  
 }
 
 .my-target-card{
-
 height:250px ;
 width:300px ;
 padding: 30px;
@@ -237,11 +229,13 @@ border-radius: 20px;
 
 }
 
+
 .my-target-card p{
   color: #696b6d;
   margin-top: 10px;
   margin-bottom: 20px;
 }
+
 
 .html{
   background: #FFF6F4;
@@ -264,7 +258,6 @@ border-radius: 20px;
   width: 90%;
   height: 1000px;
   margin: 50px auto;
- 
 }
 
 .my-next-target-heading{
@@ -281,6 +274,8 @@ border-radius: 20px;
   font-size: 32px;
   font-weight: 900;
 }
+
+
 .my-next-target-card{
   display: flex;
   border: 2px solid black;
@@ -291,9 +286,8 @@ border-radius: 20px;
 .my-next-target-img{
   width: 25%;
   height: 250px;
- 
-
 }
+
 
 .my-next-target-img img{
   height: 200px;
@@ -305,15 +299,17 @@ border-radius: 20px;
 .my-next-target-text{
   width: 75%;
   height: 250px;
-  
   padding: 30px;
   box-sizing: border-box;
 }
+
+
 .my-next-target-text h1{
   font-size: 25px;
   font-weight: 900;
   margin-bottom: 10px;
 }
+
 
 .my-next-target-text p{
   color: #696b6d;

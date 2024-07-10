@@ -1,0 +1,341 @@
+@import url('https://fonts.googleapis.com/css2?family=Azeret+Mono:ital,wght@0,100..900;1,100..900&display=swap');
+
+
+*{
+  margin: 0px;
+  padding: 0px;
+  font-family: "Azeret Mono", monospace;
+  
+}
+
+
+/* banner section style start here */
+.banner{
+  background-image: url(images/banner-bg.png);
+  width: 100%;
+  height: 650px;
+  border: 2px solid white;
+  box-sizing: border-box;
+}
+.banner-text{
+  text-align: center;
+ width: 80%;
+ height: 550px;
+margin: 0px auto;
+margin-top: 50px;
+
+ 
+
+}
+
+.banner-text-title{
+  font-size: 40px;
+  margin-top: 20px;
+}
+
+.banner-text-description{
+  padding: 24px 50px;
+  color:#696b6d ;
+ 
+}
+
+.btn{
+  
+  background: black;
+  text-align: center;
+  width:220px ;
+  height: 50px;
+  font-size: 18px;
+  border-radius: 8px;
+  color: white;
+  margin-top: 25px;
+
+}
+/* banner section style end here */
+
+
+/* why web development section style start here */
+.why-web-development-container{
+  width: 85%;
+  height: 1400px;
+  margin: 20px auto;
+  
+  padding: 50px;
+  background: #f5f1f1;
+}
+.why-web-development-heading{
+ 
+  text-align: center;
+  
+}
+
+
+.why-web-development-heading h1{
+  font-weight: bold;
+  font-size: 32px;
+}
+.why-web-development-heading p{
+  color: #696b6d;
+  margin-top: 20px;
+}
+
+
+
+
+.why-web-development-card{
+  
+  height: 340px;
+  display: flex;
+  justify-content: space-between;
+  padding: 40px;
+  margin-top: 28px;
+  background: white;
+}
+
+
+.why-web-development-card-text{
+  
+  height: 340px;
+  width: 60%;
+  
+}
+
+.why-web-development-card-title{
+  font-weight: bold;
+  font-size: 24px;
+  color: #0D1321;
+  word-spacing: 2px;
+  margin-top: 30px;
+  line-height: 40px;
+}
+
+.why-web-development-card-description{
+ font-size: 18px;
+ margin-top: 15px;
+ line-height: 30px;
+ color: #696b6d;
+ text-align: justify;
+ 
+}
+
+
+.card-btn{
+  word-spacing: 2px;
+  width: 150px;
+  height:48px;
+  font-size: 20px;
+  
+  background: white;
+  margin-top: 35px;
+  color: #0D1321;
+}
+
+
+.why-web-development-card-img{
+
+  height: 340px;
+  width: 30%;
+  margin-left: 40px;
+  
+  
+}
+.why-web-development-card-img img{
+  width: 100%;
+  height: 100%;
+}
+
+/* why web development section style end here  */
+
+/* My inspiration section style start here  */
+.my-inspiration-section-container{
+  width: 90%;
+  height: 500px;
+  border: 2px solid red;
+  margin: 50px auto;
+  
+
+}
+
+
+.my-inspiration-section-heading{
+  text-align: center;
+
+}
+
+
+.my-inspiration-section-heading p{
+  color: #696b6d;
+  padding: 20px 120px;
+}
+
+.video-container{
+ 
+  height: 400px;
+  border: 2px solid red;
+  display: block;
+  margin: 10px auto;
+}
+
+ /* My inspiration section style end here  */
+
+ /* my-current-target-section-style start here */
+.my-current-target-container{
+  width: 90%;
+  height: 500px;
+ 
+  margin: 50px auto;
+}
+
+.my-current-target-heading{
+  text-align: center;
+  padding: 40px 180px;
+}
+
+
+.my-current-target-heading h1{
+  font-size: 32px;
+  font-weight: bold;
+}
+.my-current-target-heading p{
+color: #696b6d;
+margin-top: 20px;
+}
+
+.current-target-card-container{
+  display: flex;
+  
+}
+
+.my-target-card{
+
+height:250px ;
+width:300px ;
+padding: 30px;
+margin: 0px auto;
+border-radius: 20px;
+
+}
+
+.my-target-card p{
+  color: #696b6d;
+  margin-top: 10px;
+  margin-bottom: 20px;
+}
+
+.html{
+  background: #FFF6F4;
+}
+
+.css{
+  background:#F0F4FC;
+}
+
+.js{
+  background:#FFFDF2;
+}
+
+
+ /* my-current-target-section-style end here */
+
+/* handshake-section-style-start-here  */
+.handshake-section-container{
+  background-image: url(images/handshake.jpg);
+  height: 315px;
+  width: 92%;
+  border: 2px solid black;
+  margin: 50px auto;
+  
+  background-size: cover;
+  background-color: rgba(0, 0, 0, 0.4);
+  background-blend-mode: overlay;
+  
+  
+}
+
+.handshake-section-container img{
+  height: 315px;
+  width: 100%;
+}
+
+.handshake-section{
+  height: 186px;
+  width: 70%;
+  margin: 0px auto;
+  margin-top: 60px;
+  text-align: center;
+  
+}
+
+.handshake-section h1{
+  font-size: 32px;
+  font-weight: bold;
+  margin-bottom: 20px;
+  color: white;
+}
+
+
+.handshake-section p{
+  color: white;
+}
+
+.input-section{
+  display: block;
+  margin: 0px auto;
+  margin-top: 20px;
+}
+
+.submit-btn{
+  height: 50px;
+  width: 120px;
+  font-size: 20px;
+  border-radius: 8px;
+}
+#input-feedback{
+  height: 50px;
+  width: 500px;
+  
+  border-radius: 8px;
+  padding: 10px;
+  box-sizing: border-box;
+
+}
+
+/* handshake-section-style-end-here */
+
+
+
+
+/* footer section style start here */
+.footer-container{
+  display: flex;
+  justify-content: space-between;
+  width: 100%;
+  height: 50px;
+  
+  align-items: center;
+  background: #F8F8F8;
+}
+
+
+.footer-text{
+  margin-left: 50px;
+}
+
+.footer-icon{
+ 
+  margin-right: 50px;
+  width: 200px;
+  
+ 
+}
+
+.footer-icon img{
+  justify-content: space-between;
+ 
+
+ 
+}
+
+
+
+/* footer section style end here */
